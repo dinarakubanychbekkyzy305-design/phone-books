@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'books',
     'phones',
+    'flowers',
+    'cosmetics',
 ]
 
 MIDDLEWARE = [
